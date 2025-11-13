@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 Hi, I'm Pranaswi Sai<br>🌱 Graduate from IIITS  <br>🔭 Specialized in Data Science <br>⚡My Interests include Data Science, Machine Learning, Deep Learning, Web Dev
+🤝 Hi, I'm Pranaswi Sai<br>🌱 Graduate from IIITS  <br>🔭 Specialized in Data Science <br>
 
 
 ## 🌐 Socials:
